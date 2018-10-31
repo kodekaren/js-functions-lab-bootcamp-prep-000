@@ -1,5 +1,5 @@
 
-function happyHolidays() {
+function happyHolidays(string) {
   return ("Happy Holidays!")
 }// write your code below!
 function happyHolidaysTo(name) {
